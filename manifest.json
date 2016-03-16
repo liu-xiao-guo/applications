@@ -1,0 +1,17 @@
+{
+    "name": "application.liu-xiao-guo",
+    "description": "description of application",
+    "architecture": "all",
+    "title": "application",
+    "hooks": {
+        "application": {
+            "apparmor": "application.apparmor",
+            "desktop":  "application.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

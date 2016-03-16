@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=application
+Exec=qmlscene $@ Main.qml
+Icon=application.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
